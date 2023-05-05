@@ -1,0 +1,166 @@
+
+body {
+    font-family: Sans-Serif;
+    background-color: #f6f0e7;
+}
+
+.Nav-bar {
+    background-color: #2f3032;
+}
+
+.image-logo {
+    padding-left: 2.2em;
+    color: #f1a93a;
+}
+
+
+.menu-item a {
+    padding: 20px;
+    text-decoration: none;
+    color: #d6d6d6;
+    font-weight: 600;
+}
+
+.menu-item a:hover {
+    color: #f6a83a;
+}
+
+.food-banner {
+    background: linear-gradient(to bottom, #2f3032 0%, #f1a93a 100%);
+
+
+}
+
+.banner-image-round {
+    border: 0px solid #f1a93a;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+
+}
+
+.bannes-text {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.banner-heading {
+    font-size: 40px;
+    color: #f1a939;
+}
+
+.banner-paragraph {
+    font-size: 20px;
+    color: white;
+}
+
+.banner-button {
+    height: 50px;
+    width: 200px;
+    background-color: #f1a939;
+    font-size: 20px;
+    border: 0px solid;
+}
+
+.about-us {
+    background-color: #f6f0e7;
+}
+
+.about-heading {
+    color: #eba535;
+    font-weight: 700;
+}
+
+.about-paragraph {
+    font-size: 16px;
+}
+
+.section-one {
+    background-color: #f6f0e7;
+}
+
+.section-one-img {
+    width: 450px;
+}
+
+.section-one-buttom {
+    width: 180px;
+    height: 45px;
+    background-color: #f1a939;
+    border: 0px solid;
+}
+
+.section-one-buttom:hover {
+
+    background-color: #f6f0e7;
+    border: 5px solid #f1a939;
+}
+
+.explore-section {
+    background-color: #f6f0e7;
+}
+
+.explore-items {
+    background-color: #f6f0e7;
+}
+
+.explore-heading {
+    color: #f1a939;
+}
+
+.order-button {
+    width: 180px;
+    height: 45px;
+    background-color: #f1a939;
+    border: 0px solid;
+}
+
+.order-button:hover {
+    background-color: #f6f0e7;
+    border: 5px solid #f1a939;
+}
+
+.explore-design {
+    border: 0px solid #f1a939;
+    box-shadow: 2px 2px 2px 2px#f1a939;
+    padding: 15px;
+    border-radius: 15px;
+    margin: 10px;
+    width: 340px;
+
+}
+
+.explore-img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.section-view {
+    background-color: #f1a939;
+    padding: 50px;
+}
+
+.inner-review {
+    background-color: #f6f0e7;
+}
+
+.testimonial-heading {
+    color: black;
+    font-weight: 700;
+}
+
+.inner-review {
+    padding: 50px;
+    border-radius: 20px;
+
+}
+
+.inner-heading {
+    color: #f1a939;
+    font-weight: 700;
+}
+
+.footer-section {
+    padding: 50px;
+}
